@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <!-- القسم الأيسر: الإحصائيات والرسومات الديناميكية -->
+    <!-- القسم الأيسر: الإحصائيات والرسومات الديناميكية عبر سيرفر بديل مستقر -->
     <td width="50%" valign="top" align="center">
       <br />
       <img src="https://vercel.app" alt="Most Used Languages" width="100%" />
