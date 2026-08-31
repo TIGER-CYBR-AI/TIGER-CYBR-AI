@@ -1,14 +1,18 @@
 # 💻 Tiger Technology
 
-<table>
-  <tr>
-    <!-- القسم الأيسر: أنميشن النقاط المتلاشية الأصلي -->
-    <td width="45%" valign="top" align="center">
-      <img src="https://githubusercontent.com" alt="Animated Particle Effect" width="100%" />
-    </td>
-    
-    <!-- القسم الأيمن: جدول البيانات البرمجي لـ Tiger Technology -->
-    <td width="55%" valign="top" align="right" dir="rtl">
+### 👋 مرحباً بك في الواجهة البرمجية الرسمية لـ Tiger Technology
+نبتكر حلولاً رقمية ذكية وأنظمة أندرويد مخصصة بأعلى مهارات الانضباط والقوة.
+
+---
+
+<p align="center">
+  <!-- تأثير النقاط المتلاشية والمتحركة الأصلي للمطور -->
+  <img src="https://githubusercontent.com" alt="Animated Particle Effect" width="100%" />
+</p>
+
+---
+
+### 💻 SYSTEM INFO (LIVE)
 
 text
 SYSTEM.INFO                                                                           • LIVE
@@ -30,12 +34,6 @@ Grid.Mail                                                     tiger-cybr-ai.conn
 Grid.Portfolio                                                                    coming soon
 Grid.GitHub                                                                   @TIGER-CYBR-AI
 
-
-    </td>
-  </tr>
-</table>
-
-<br />
 
 ---
 
