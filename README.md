@@ -1,44 +1,45 @@
-<div align="center">
-
-<img src="identity_live.gif" width="260" alt="Abdulsalam Kousa"/>
-
-<sub>● LIVE — cycles between portrait & signal shapes</sub>
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="600px">
+<td width="270" align="center" valign="top">
 
-### SYSTEM.INFO
+`VISUAL.MAP`
 
-| | |
-|---|---|
-| **Subject** | Abdulsalam Kousa — عبد السلام كوسه |
-| **Role** | Game & App Developer |
-| **Company** | Tiger Technology — تايجر تكنولوجي |
-| **Origin** | Aleppo, Syria — حلب، سوريا |
-| **Status** | Building + Learning + Shipping |
-| **ToolChain** | VS Code, Git, GitHub Codespaces, Android Studio |
+<img src="identity_live.gif" width="250" alt="Abdulsalam Kousa"/>
 
-**Core.Lang**  `Python` `Java` `Kotlin` `C++`
-**Core.Frontend**  `Flutter` `React Native (Expo)` `Kivy`
-**Core.Backend**  `Node.js` `Firebase Functions`
-**Core.Database**  `Firebase` `MongoDB`
-**Core.Infra**  `GitHub Actions` `GitHub Codespaces` `Docker`
+</td>
+<td valign="top">
+
+`SYSTEM.INFO`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`● LIVE`
+
+```
+Subject .......................... Abdulsalam Kousa
+Role .............................. Game & App Developer
+Company ........................... Tiger Technology
+Origin ............................. Aleppo, Syria
+Education .......................... Self-taught
+Status ............................. Building + Learning + Shipping
+ToolChain .......................... VS Code, Git, Codespaces, Android Studio
+
+Core.Lang .......................... Python, Java, Kotlin, C++
+Core.Frontend ...................... Flutter, React Native (Expo), Kivy
+Core.Backend ....................... Node.js, Firebase Functions
+Core.Database ...................... Firebase, MongoDB
+Core.Infra ......................... GitHub Actions, Codespaces, Docker
+
+- Contact
+Grid.Mail .......................... add-your-email@example.com
+Grid.Portfolio ..................... coming soon
+Grid.LinkedIn ...................... add-your-linkedin
+Grid.GitHub ........................ @TIGER-CYBR-AI
+Grid.Instagram ..................... add-your-instagram
+Grid.Facebook ...................... add-your-facebook
+
+▸ More about me & projects below in README ↓
+```
 
 </td>
 </tr>
 </table>
-
----
-
-### GRID.CONTACT
-
-[![Email](https://img.shields.io/badge/Email-add--your--email-4b4fd1?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-add--your--link-4b4fd1?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-add--your--handle-4b4fd1?style=flat-square&logo=instagram&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/Facebook-add--your--handle-4b4fd1?style=flat-square&logo=facebook&logoColor=white)](#)
 
 ---
 
@@ -64,6 +65,8 @@
 ---
 
 <div align="center">
+
+`LINKEDIN`&nbsp;&nbsp;&nbsp;`INSTAGRAM`&nbsp;&nbsp;&nbsp;`FACEBOOK`&nbsp;&nbsp;&nbsp;`EMAIL`
 
 *More projects & updates coming soon* · **Tiger Technology**
 
